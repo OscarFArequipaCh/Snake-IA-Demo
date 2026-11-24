@@ -1,0 +1,18 @@
+# Cache de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Cache de herramientas y entornos
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.venv/
+venv/
+env/
+
+# Archivos de referencia del enunciado (no se versionan)
+promt.txt
+Snake_AI_Q_Learning_VF.ipynb
